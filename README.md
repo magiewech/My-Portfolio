@@ -1,5 +1,5 @@
 
-# {My portfolio landing page}
+# My portfolio landing page
 #### {A website with a description of who i am}, {date of current version,june 2021}
 #### By{Me,Margaret Waweru}
 ## Description
