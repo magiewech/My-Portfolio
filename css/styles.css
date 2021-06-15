@@ -2,3 +2,7 @@
     font-style: oblique;
     color: purple;
 }
+p.intro {
+  font-style: italic;
+  color: black;
+}
