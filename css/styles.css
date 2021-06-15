@@ -6,3 +6,11 @@ p.intro {
   font-style: italic;
   color: black;
 }
+.important {
+    font-style: normal;
+    background-color: aqua;
+}
+.still-important {
+    font-style: normal;
+    background-color: red;
+}
