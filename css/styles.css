@@ -17,3 +17,7 @@ p.intro {
 img {
     float: inline-start;
 }
+.more-important{
+    font-style: oblique;
+    color: purple;
+}
