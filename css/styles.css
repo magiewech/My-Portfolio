@@ -14,3 +14,6 @@ p.intro {
     font-style: normal;
     background-color: red;
 }
+img {
+    float: inline-start;
+}
