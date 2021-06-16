@@ -1,10 +1,12 @@
 .intro {
     font-style: oblique;
     color: purple;
+    text-align: center;
 }
 p.intro {
   font-style: italic;
   color: black;
+  text-align: center;
 }
 .important {
     font-style: normal;
@@ -13,6 +15,7 @@ p.intro {
 .still-important {
     font-style: normal;
     background-color: red;
+    float: ;
 }
 img {
     float: inline-start;
