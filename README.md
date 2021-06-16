@@ -16,5 +16,3 @@
 ### License
 *{license,MIT(public)}*
 Copyright (c) {2021} **{List of contributors or company name}**
-  
-  
