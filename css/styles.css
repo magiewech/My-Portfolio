@@ -11,6 +11,7 @@ p.intro {
 .important {
     font-style: normal;
     background-color: aqua;
+    text-align: center;
 }
 .still-important {
     font-style: normal;
