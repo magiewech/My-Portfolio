@@ -25,7 +25,9 @@ img {
 .more-important{
     font-style: oblique;
     color: purple;
-}
-.link{
     text-align: center;
+}
+.menu{
+    text-align: center;
+    color: purple;
 }
