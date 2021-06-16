@@ -19,9 +19,13 @@ p.intro {
     float: ;
 }
 img {
-    float: inline-start;
+    float: inherit;
+    
 }
 .more-important{
     font-style: oblique;
     color: purple;
+}
+.link{
+    text-align: center;
 }
